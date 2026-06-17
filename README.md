@@ -183,11 +183,10 @@ The trained model should be saved in the `model/` directory as `model.joblib`.
 
 ---
 
-## 🧾 License
 
-This project is licensed under the [MIT License](LICENSE).
+**Live Project Link :**
+https://v0-loan-evaluation-system.vercel.app/
 
----
 
 ## 👩‍💻 Author
 
