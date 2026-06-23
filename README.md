@@ -4,6 +4,8 @@ A machine learning–powered web application designed to help **SACCOs and finan
 
 This project combines **Flask (Python)** for the backend and **React (JavaScript)** for the frontend, integrating explainable AI (XAI) techniques to improve transparency in loan approval decisions.
 
+**Live Project Link :**
+https://v0-loan-evaluation-system.vercel.app/
 ---
 
 ## 🚀 Features
